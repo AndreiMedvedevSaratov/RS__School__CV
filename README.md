@@ -41,10 +41,10 @@ September 1996 - July 2001 - Saratov State University, Biophysics, Department of
 
 August 2019 - January 2020 - Learn on SoloLearn Platform: Java, MySQL, JavaScrypt - my profile - https://www.sololearn.com/Profile/8324719
 
-Experience
+## Experience
 
 In parallel with the main work, I was always interested in various programming projects. I made different types of websites: Blogs, OpenCart stores, stores of Apishops projects, etc. I was always interested in “Money-Making activities”.
 
-Languages
+## Languages
 
 English - Upper-Intermediate (B2). I learned English in school, in University. I had several native speaker friends. Currently I work on job which required English language knowledge and I use it almost every day.

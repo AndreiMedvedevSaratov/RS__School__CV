@@ -1,6 +1,6 @@
 # RS__School__CV
 
-https://andreimedvedevsaratov.github.io/rsschool-cv/index.html
+https://andreimedvedevsaratov.github.io/RS__School__CV/index.html
 
 
 Andrei Medvedev

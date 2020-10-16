@@ -1,4 +1,4 @@
-# rsschool-cv
+# RS__School__CV
 
 https://andreimedvedevsaratov.github.io/rsschool-cv/index.html
 
